@@ -1,0 +1,60 @@
+body{
+    font-family: 'Foldit', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background:#f5dbda;
+}
+
+.header_div{
+    background:white;
+    color: #ce2700;
+
+}
+
+.header_div p{
+    font-family:'Roboto' , sans-serif;
+    color: grey;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.main_div button{
+    font-family:'Roboto' , sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight: bold;
+    letter-spacing:3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:grey;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color:#f5f5f5;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+#result_label{
+    color:black;
+}
+#result_confidence{
+    color:darkgrey;
+}
+
+h2{
+    font-size:25;
+    font-weight:bold;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    color:cadetblue;
+
+}
+
+#ee{
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    font-size:18px;
+}
